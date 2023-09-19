@@ -23,14 +23,10 @@ function App() {
     <div className="App">
       <h1>CALULATOR TO ADD TWO NUMBERS</h1>
       <input
-        //type="number"
-        //placeholder=" "
         value={num1}
         onChange={handleNum1Change} 
       /> 
       <input
-        //type="number"
-        //placeholder=" "
         value={num2}
         onChange={handleNum2Change}
       /> <br></br><br></br>
